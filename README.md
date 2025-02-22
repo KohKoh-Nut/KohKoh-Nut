@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Solomon, an avid learner with a deep interest in history, culture, and technology. I enjoy exploring different perspectives through reading and working on creative projects.
+Welcome to my GitHub profile! I'm Solomon, an avid learner with a deep interest in various topics, including history, culture, philosophy, science, technology, biography, and religion. I enjoy exploring different perspectives through reading and working on creative projects.
 
 ## 🚀 About Me
 - 🎓 Currently waiting for university admission
-- 📖 Passionate about history, culture, and self-improvement through reading
+- 📖 Passionate about learning and self-improvement through reading
 - 🌱 Exploring game development and simulation-based projects
 
 ## 🔧 Interests
