@@ -1,25 +1,27 @@
-# Hi there! 👋
+**Hi**
 
-Welcome to my GitHub profile! I'm Solomon, an avid learner with a deep interest in various topics, including history, culture, philosophy, science, technology, biography, and religion. I enjoy exploring different perspectives through reading and working on creative projects.
+I'm **Solomon**, avid learner in various topics like philosophy and history. I like reading. Reading is good. GOod.
 
-## 🚀 About Me
-- 🎓 Currently waiting for university admission
-- 📖 Passionate about learning and self-improvement through reading
-- 🌱 Exploring game development and simulation-based projects
+## About Me
+- 20, single, male
+- NUS undergraduate
+- based in Malaysia & Singapore
+- I use Arch btw...
 
-## 🔧 Interests
+## Interests
 - Historical and cultural studies
+- Philosophy
+- Arch Linux
 - Game Development
-- AI & Simulation Systems
 
-## 📌 Ongoing Project
-- **Ruined**: A board game project focusing on strategic gameplay and creativity
+## Ongoing Project
+- **Project Mambo**: A series of stuff. [Project Mambo](https://github.com/ProjectMambo)
 
-## 📫 Connect with Me
-Feel free to reach out or explore my projects. I'm always open to discussions and collaborations!
-- 📧 Email: [shengjunkoh@gmail.com](mailto:shengjunkoh@gmail.com)  
+## Connect with Me
+Don't do it. But if u must.
+- Email: [kohkohnut1202@gmail.com](mailto:kohkohnut1202@gmail.com)
 
-Thanks for stopping by! 😊
+**Bye**
 
 <!---
 KohKoh-Nut/KohKoh-Nut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
