@@ -2,6 +2,8 @@
 
 I'm **Solomon**, avid learner in various topics like philosophy and history. I like reading. Reading is good. GOod.
 
+Visit My Site: [KohKohNut.org](https://kohkohnut.org)
+
 ## About Me
 - 20, single, male
 - NUS undergraduate
