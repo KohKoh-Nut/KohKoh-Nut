@@ -18,6 +18,7 @@ Visit My Site: [kohkohnut.org](https://kohkohnut.org)
 
 ## Ongoing Project
 - **Project Mambo**: A series of stuff. [Project Mambo](https://github.com/ProjectMambo)
+- **Cod**: Orbital 26 Project. [Cod](https://github.com/KohKoh-Nut/Cod)
 
 ## Connect with Me
 Don't do it. But if u must.
