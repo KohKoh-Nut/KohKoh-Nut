@@ -14,6 +14,7 @@ Visit My Site: [kohkohnut.org](https://kohkohnut.org)
 - Historical and cultural studies
 - Philosophy
 - Arch Linux
+- Rust
 - Game Development
 
 ## Ongoing Project
