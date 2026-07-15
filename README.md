@@ -22,7 +22,7 @@ Visit My Site: [kohkohnut.org](https://kohkohnut.org)
 
 ## Connect with Me
 Don't do it. But if u must.
-- Email: [kohkohnut1202@gmail.com](mailto:kohkohnut1202@gmail.com)
+- Email: [me@kohkohnut.org](mailto:me@kohkohnut.org)
 
 **Bye**
 
